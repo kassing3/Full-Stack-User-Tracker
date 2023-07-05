@@ -8,7 +8,7 @@ This web applications allows an admin to manage users in database. The applicati
 
 To use this program, build and run the backend portion in your IDE while also running the front end portion using `npm start`
 
-For a better understanding of it's functionality and how to use the program, feel free to view the [Walk-through Video](./media/User%20Tracker%20Demo.mov).
+For a better understanding of it's functionality and how to use the program, feel free to view the [Walk-through Video](https://drive.google.com/file/d/1lRRuv9SOKnjR8_7WlpRUhqjfZ4BD1r_5/view?usp=sharing).
 
 **Here's a screenshot of the website created:**
 
